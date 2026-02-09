@@ -30,3 +30,6 @@ sed -i 's/[[:space:]]\+/ /g; /\[edit\]/d; /^$/d' data/linux_docs/*.txt
 # train the model (CPU-only, LoRA, low-RAM)
 python3 train_linux_ai.py
 
+Chat with your AI
+After training is complete, use the chat script to test your model:
+```bash
