@@ -1,6 +1,6 @@
 # Linux Wiki AI Trainer (Low-Spec Optimized)
 
-A GPLv3 toolkit for harvesting minimalist Linux documentation and training a TinyLlama-1.1B model. Optimized for low-end hardware (AMD A4-9125 / 8GB RAM).
+A AGPLv3 toolkit for harvesting minimalist Linux documentation and training a TinyLlama-1.1B model. Optimized for low-end hardware (AMD A4-9125 / 8GB RAM).
 
 ## 🚀 Setup, Harvesting, Cleaning, and Training (All-in-One)
 
